@@ -1,0 +1,29 @@
+{
+  "name": "zld-vue-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool for Vue project",
+  "main": "index.js",
+  "bin": {
+    "zld": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "tool"
+  ],
+  "author": "zld",
+  "license": "MIT",
+  "homepage": "https://github.com/coderwhy/coderwhy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderwhy/coderwhy"
+  },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.10"
+  }
+}
