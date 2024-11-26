@@ -1,6 +1,6 @@
 {
-  "name": "zld-vue-cli",
-  "version": "1.0.0",
+  "name": "zld-vue-cli-demo",
+  "version": "1.0.1",
   "description": "A CLI tool for Vue project",
   "main": "index.js",
   "bin": {
