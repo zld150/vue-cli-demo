@@ -16,10 +16,10 @@
   ],
   "author": "zld",
   "license": "MIT",
-  "homepage": "https://github.com/coderwhy/coderwhy",
+  "homepage": "https://github.com/zld150/vue-cli-demo",
   "repository": {
     "type": "git",
-    "url": "https://github.com/coderwhy/coderwhy"
+    "url": "https://github.com/zld150/vue-cli-demo"
   },
   "dependencies": {
     "commander": "^12.1.0",
